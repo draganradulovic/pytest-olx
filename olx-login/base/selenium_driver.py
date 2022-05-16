@@ -1,5 +1,3 @@
-import logging
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -15,7 +13,6 @@ class selenium_actions():
     def __init__(self, driver):
         self.driver = driver
 
-
     def byType(self,tip):
         tip=tip.lower()
         if tip == 'xpath':
@@ -24,7 +21,6 @@ class selenium_actions():
             return By.ID
         elif tip == 'name':
             return By.NAME
-
 
     def get_element(self, locator, byt='xpath'):
         type=self.byType(byt)

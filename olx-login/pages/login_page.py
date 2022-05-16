@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from base.selenium_driver import selenium_actions
 import time
@@ -19,7 +18,6 @@ class home_page_login(selenium_actions):
 
     def open_login_form(self):
         self.get_element(self._login_homepage_button).click()
-
 
     def type_name(self, ime):
         self.send_key(ime, self._ime_field)

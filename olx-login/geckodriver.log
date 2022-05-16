@@ -1,0 +1,188 @@
+1651617104963	geckodriver	INFO	Listening on 127.0.0.1:64174
+1651617108241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64175" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4bPfr4"
+1651617113506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4bPfr4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64175/devtools/browser/65b8bd4c-9d5c-4cc0-bf7d-7c19d6c78d14
+1651617135024	Marionette	INFO	Listening on port 64180
+1651617135332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L40_bwVzlW8spCJYIlxRfazkqz_naZf8jNC5QLvZgqM.js line 1 > eval line 3957 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L40_bwVzlW8spCJYIlxRfazkqz_naZf8jNC5QLvZgqM.js line 1 > eval line 5 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651617173346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L40_bwVzlW8spCJYIlxRfazkqz_naZf8jNC5QLvZgqM.js line 1 > eval line 4667 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+1651617178164	Marionette	INFO	Stopped listening on port 64180
+1651617203207	geckodriver	INFO	Listening on 127.0.0.1:62059
+1651617206308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62060" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileI4Kr9m"
+1651617207694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileI4Kr9m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62060/devtools/browser/d0de145d-7b71-4e0e-9078-15d77252c7af
+1651617214075	Marionette	INFO	Listening on port 62067
+1651617214331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L40_bwVzlW8spCJYIlxRfazkqz_naZf8jNC5QLvZgqM.js line 1 > eval line 2638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+1651617243647	Marionette	INFO	Stopped listening on port 62067
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651617308642	geckodriver	INFO	Listening on 127.0.0.1:62223
+1651617311771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62224" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledpcJoQ"
+1651617312577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledpcJoQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62224/devtools/browser/64864db6-6983-4191-bbc5-51906bd171e2
+1651617319188	Marionette	INFO	Listening on port 62229
+1651617319310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651617323040	Marionette	INFO	Stopped listening on port 62229
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652185216961	geckodriver	INFO	Listening on 127.0.0.1:57879
+1652185220032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57880" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDQNbo7"
+1652185223896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDQNbo7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57880/devtools/browser/44fdd2c8-55d3-451d-a8dd-90438398b571
+1652185236089	Marionette	INFO	Listening on port 57885
+1652185236274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+1652185245810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 354 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 2145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 4106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 776 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652185270497	Marionette	INFO	Stopped listening on port 57885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652185324961	geckodriver	INFO	Listening on 127.0.0.1:64144
+1652185328025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64145" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOv40vo"
+1652185328825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOv40vo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64145/devtools/browser/23c928db-26ad-4c43-a395-e4898adaf06d
+1652185335049	Marionette	INFO	Listening on port 64150
+1652185335544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 3661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 3945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 7026 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ba"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.olx.ba/js/ads/Criteoadapterandmodules.js, line 6: TypeError: Object(...) is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 6482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652185381032	Marionette	INFO	Stopped listening on port 64150
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
