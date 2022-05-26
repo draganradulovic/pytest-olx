@@ -5,6 +5,7 @@ import pytest
 import unittest
 from ddt import ddt, unpack, data
 from utilities.read_csv import read_from_csv
+import os
 
 
 @pytest.mark.usefixtures("oneTimesetUp1", "setUp1")
@@ -17,7 +18,7 @@ class login_tests_olx(unittest.TestCase):
         self.lp = home_page_login(self.driver)
 
     @pytest.mark.run(order=1)
-    @data(*read_from_csv(r"C:\Users\User\PycharmProjects\letskodeit\utilities\positive_test_data.csv"))
+    @data(*get_csv_data(os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'utilities','csv_data_files', 'positive_test_data.csv'))))
     @unpack
     def test_positive_login(self, name, password):
         self.driver.refresh()
@@ -26,7 +27,7 @@ class login_tests_olx(unittest.TestCase):
         assert result == True
 
     @pytest.mark.run(order=2)
-    @data(*read_from_csv(r"C:\Users\User\PycharmProjects\letskodeit\utilities\negative_test_data.csv"))
+    @data(*get_csv_data(os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'utilities','csv_data_files', 'negative_test_data.csv'))))
     @unpack
     def test_negative_login(self,name, password):
         self.lp.login(name, password)
