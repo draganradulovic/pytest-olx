@@ -18,10 +18,10 @@ def oneTimesetUp1(request, browser2):
 
 @pytest.fixture()
 def setUp1():
-    print("Izvrsavanje prije svake metode")
+    print("Before every method")
 
     yield
-    print("Izvrsavanje poslije svake metode")
+    print("After every method")
 
 def pytest_addoption(parser):
     parser.addoption("--browser2")
